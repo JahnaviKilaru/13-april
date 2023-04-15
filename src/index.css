@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MkJcQ8R2d4ySW7PEHVOfCZwV5joOTDdWstgRFZLGBPU7sKweLBbwGg44DkcAs3lPp4g&usqp=CAU");
+  background-size: cover; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .home{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Altja_j%C3%B5gi_Lahemaal.jpg/1200px-Altja_j%C3%B5gi_Lahemaal.jpg");
+  background-size: cover;
+  height: 100vh; */
+  
+/* }
+.about{
+  background-image: url("https://www.shutterstock.com/image-photo/earth-crystal-glass-globe-ball-260nw-1500154991.jpg");
+  background-size: cover;
+  height: 100vh;
+} */
